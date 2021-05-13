@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-07T23:05:35 IST" name="Command line suite" finished-at="2021-04-07T23:05:36 IST" duration-ms="36">
+    <groups>
+    </groups>
+    <test started-at="2021-04-07T23:05:35 IST" name="Command line test" finished-at="2021-04-07T23:05:36 IST" duration-ms="36">
+      <class name="Qaclickacademy.APITest">
+        <test-method signature="apitest()[pri:0, instance:Qaclickacademy.APITest@13eb8acf]" started-at="2021-04-07T23:05:35 IST" name="apitest" finished-at="2021-04-07T23:05:36 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apitest -->
+      </class> <!-- Qaclickacademy.APITest -->
+      <class name="Qaclickacademy.SeleniumTest">
+        <test-method signature="urldow()[pri:0, instance:Qaclickacademy.SeleniumTest@51c8530f]" started-at="2021-04-07T23:05:36 IST" name="urldow" finished-at="2021-04-07T23:05:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urldow -->
+        <test-method signature="browserinvocation()[pri:0, instance:Qaclickacademy.SeleniumTest@51c8530f]" started-at="2021-04-07T23:05:36 IST" name="browserinvocation" finished-at="2021-04-07T23:05:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserinvocation -->
+      </class> <!-- Qaclickacademy.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
